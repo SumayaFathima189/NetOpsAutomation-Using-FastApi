@@ -11,9 +11,9 @@ Next, you can start the FastAPI server:
 -->uvicorn main:app --reload
 
 # API Endpoints
-# Network Objects
+## Network Objects
 Get a list of network objects
-# *Method: GET*
+### *Method: GET*
 Path: /network_objects
 
 Description: Get a list of network objects.
